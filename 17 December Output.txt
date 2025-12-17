@@ -1,0 +1,26 @@
+17 December Homework
+List: ['Harshada', 'Garima', 'Ram', 'Nimisha', 'Ram', 'Harshada', 'Kiran', 'Amit', 'Garima', 'Sahil']
+
+Tuple: ('Ram', 'Divya', 'Nimisha', 'Ram', 'Kiran', 'Amit', 'Rahul', 'Divya', 'Sahil', 'Kiran')
+
+Set from list: {'Ram', 'Nimisha', 'Kiran', 'Amit', 'Harshada', 'Sahil', 'Garima'}
+
+Set from tuple: {'Ram', 'Nimisha', 'Sahil', 'Kiran', 'Amit', 'Divya', 'Rahul'}
+
+After removing Amit: {'Ram', 'Nimisha', 'Kiran', 'Harshada', 'Sahil', 'Garima'}
+
+After adding Harshada: {'Ram', 'Nimisha', 'Kiran', 'Harshada', 'Sahil', 'Garima'}
+
+After removing Ram: {'Nimisha', 'Sahil', 'Kiran', 'Amit', 'Divya', 'Rahul'}
+
+After adding Ashvitha: {'Nimisha', 'Sahil', 'Kiran', 'Amit', 'Divya', 'Rahul', 'Ashvitha'}
+
+Final Set from list: {'Ram', 'Nimisha', 'Kiran', 'Harshada', 'Sahil', 'Garima'}
+
+Final Set from tuple: {'Nimisha', 'Sahil', 'Kiran', 'Amit', 'Divya', 'Rahul', 'Ashvitha'}
+
+Union of both sets: {'Ram', 'Nimisha', 'Kiran', 'Rahul', 'Amit', 'Divya', 'Harshada', 'Sahil', 'Garima', 'Ashvitha'}
+
+Intersection of both sets: {'Kiran', 'Sahil', 'Nimisha'}
+
+Frozen Set: frozenset({'Ram', 'Nimisha', 'Kiran', 'Sahil', 'Garima', 'Harshada'})
